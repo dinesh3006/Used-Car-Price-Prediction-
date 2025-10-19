@@ -41,7 +41,3 @@ The project follows a structured data science pipeline:
 7.  **Web App Deployment:** A user-friendly web interface was built using **Streamlit**. This app loads the saved models to make real-time price predictions based on user input. (See: `app.py`)
 
 ---
-
-## 📂 File Structure
-
-A professional repository layout is recommended. I suggest organizing your files as follows:
