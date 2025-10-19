@@ -8,7 +8,9 @@ The primary goal is to create an accurate and user-friendly tool for both custom
 
 ![Streamlit App Demo]
 <img width="1920" height="869" alt="Screenshot 2025-10-20 040121" src="https://github.com/user-attachments/assets/4b0d1182-5dad-4e40-804e-49a804328e3a" />
+<br><br>
 <img width="1920" height="858" alt="Screenshot 2025-10-20 040731" src="https://github.com/user-attachments/assets/85050b0b-af50-4da9-9e46-4d9dee42f6e9" />
+<br><br>
 <img width="1920" height="857" alt="Screenshot 2025-10-20 040619" src="https://github.com/user-attachments/assets/65aaff14-8381-4791-a066-463c88be17fa" />
 
 ---
